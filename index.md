@@ -3,12 +3,12 @@
 
 ### Certifications
 
+* [Production Machine Learning Systems ( Google )](https://www.coursera.org/account/accomplishments/certificate/D6VCT43SHV8L) - [Course Contents](https://www.coursera.org/learn/gcp-production-ml-systems#syllabus)
 * [Feature Engineering ( Google )](https://www.coursera.org/account/accomplishments/certificate/HAEJ372CRWY4) - [Course Contents](https://www.coursera.org/learn/feature-engineering/#syllabus)
 * [Inferential and Predictive Statistics for Business ( UIUC )](https://www.coursera.org/account/accomplishments/certificate/Q4VBCSM2SLJ4) - [Course Contents](https://www.coursera.org/learn/business-statistics#syllabus)
-* [Production Machine Learning Systems ( Google )](https://www.coursera.org/account/accomplishments/certificate/D6VCT43SHV8L) - [Course Contents](https://www.coursera.org/learn/gcp-production-ml-systems#syllabus)
 * [Trading Algorithms ( Indian School of Business )](https://www.coursera.org/account/accomplishments/certificate/ZR2YDV6JM6EH) - [Course Contents](https://www.coursera.org/learn/trading-algorithm#syllabus)
-* [Launching Into Machine Learning ( Google )](https://www.coursera.org/account/accomplishments/certificate/R26PN3BFQPCA) - [Course Contents](https://www.coursera.org/learn/launching-machine-learning/#syllabus)
 * [AWS Certified Developer Associate](https://aw.certmetrics.com/amazon/public/verification.aspx) - C50NQLS2JJE4QQS8
+* [Launching Into Machine Learning ( Google )](https://www.coursera.org/account/accomplishments/certificate/R26PN3BFQPCA) - [Course Contents](https://www.coursera.org/learn/launching-machine-learning/#syllabus)
 
 ### Code
 
