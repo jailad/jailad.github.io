@@ -19,7 +19,7 @@
 * [Project2](https://github.com/jailad/Self-Driving-Cars-Term1-Project2)
 * [Project3](https://github.com/jailad/Self-Driving-Cars-Term1-Project3)
 * [Project4](https://github.com/jailad/Self-Driving-Cars-Term1-Project4)
-* (Project5)(https://github.com/jailad/Self-Driving-Cars-Term1-Project5)
+* [Project5](https://github.com/jailad/Self-Driving-Cars-Term1-Project5)
 
 ### Apps
 
