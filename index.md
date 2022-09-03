@@ -3,6 +3,7 @@
 
 ### Certifications
 
+* [AWS Machine Learning Certification](https://aws.amazon.com/certification/certified-machine-learning-specialty/)
 * [Production Machine Learning Systems ( Google )](https://www.coursera.org/account/accomplishments/certificate/D6VCT43SHV8L) - [Course Contents](https://www.coursera.org/learn/gcp-production-ml-systems#syllabus)
 * [Feature Engineering ( Google )](https://www.coursera.org/account/accomplishments/certificate/HAEJ372CRWY4) - [Course Contents](https://www.coursera.org/learn/feature-engineering/#syllabus)
 * [Inferential and Predictive Statistics for Business ( UIUC )](https://www.coursera.org/account/accomplishments/certificate/Q4VBCSM2SLJ4) - [Course Contents](https://www.coursera.org/learn/business-statistics#syllabus)
