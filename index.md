@@ -24,17 +24,6 @@
 * [Project4](https://github.com/jailad/Self-Driving-Cars-Term1-Project4)
 * [Project5](https://github.com/jailad/Self-Driving-Cars-Term1-Project5)
 
-### Apps
-
-Developed / architected significant modules for the following top-rated consumer applications.
-* [MyMerrill iPad App](http://goo.gl/9EZ1I)
-* [Merrill Edge iPad App](http://goo.gl/Uf5wQ)
-* [MyMerrill Android App](http://goo.gl/WCspz)
-* [Merrill Edge Android App](http://goo.gl/2CROi)
-* [MyMerrill iPhone App](http://goo.gl/3b5AR)
-* [Merrill Edge iPhone App](http://goo.gl/3Ztpv)
-* [USTrust Bank iPad App](http://goo.gl/r2YLK)
-
 
 ### Profiles
 
@@ -49,7 +38,19 @@ Developed / architected significant modules for the following top-rated consumer
 * [Medium](https://goo.gl/ttV3p3)
 * [Blogger](http://thejspace.blogspot.com/)
 
+
+### Apps
+
+Developed / architected significant modules for the following top-rated consumer applications.
+* [MyMerrill iPad App](http://goo.gl/9EZ1I)
+* [Merrill Edge iPad App](http://goo.gl/Uf5wQ)
+* [MyMerrill Android App](http://goo.gl/WCspz)
+* [Merrill Edge Android App](http://goo.gl/2CROi)
+* [MyMerrill iPhone App](http://goo.gl/3b5AR)
+* [Merrill Edge iPhone App](http://goo.gl/3Ztpv)
+* [USTrust Bank iPad App](http://goo.gl/r2YLK)
+
+
 ### Photography
 
 * [Flickr](https://goo.gl/LAIKPH)
-
