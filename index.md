@@ -30,7 +30,7 @@
 * [Twitter](https://goo.gl/nENKDg) 
 * [Stackoverflow](http://goo.gl/KWSg49)
 * [LinkedIn](https://www.linkedin.com/in/jailad)
-* [GitHub](https://goo.gl/kFO03g)
+* [GitHub](https://github.com/jailad)
 * [BitBucket](https://goo.gl/cQ1KKU)
 
 ### Blog
