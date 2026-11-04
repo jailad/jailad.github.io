@@ -29,7 +29,7 @@
 
 * [Twitter](https://goo.gl/nENKDg) 
 * [Stackoverflow](http://goo.gl/KWSg49)
-* [LinkedIn](https://goo.gl/MnWdcH)
+* [LinkedIn](https://www.linkedin.com/in/jailad)
 * [GitHub](https://goo.gl/kFO03g)
 * [BitBucket](https://goo.gl/cQ1KKU)
 
