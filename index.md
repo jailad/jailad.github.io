@@ -1,3 +1,7 @@
+# Jai Lad
+
+Senior Quantitative Trading Strategist, Fidelity equity trading desk.
+
 ## Portfolio
 
 
