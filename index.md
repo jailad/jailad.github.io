@@ -19,6 +19,7 @@ Senior Quantitative Trading Strategist, Fidelity equity trading desk.
 
 * [Github](https://github.com/jailad/)
 * [Sargam Practice](https://jailad.github.io/sargam-practice/) - Hindustani sargam practice app ([source](https://github.com/jailad/sargam-practice))
+* [Aparajita](https://jailad.github.io/aparajita/) - Interactive poetry book reader: poems by Vijaya Lad, writing as Aparajita
 * [TensorflowJS - Browser-based Machine Learning](https://github.com/jailad/tensorflowjs/tree/master/hello_world) 
 * [R - Unit Testing for R](https://github.com/jailad/R)
 * [Machine Learning - Proof of Concepts](https://github.com/jailad/MLPoCs) 
